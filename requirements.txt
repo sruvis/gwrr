@@ -1,2 +1,6 @@
+openai==0.28.0
 streamlit
-openai
+supabase
+PyPDF2
+pytesseract
+Pillow
